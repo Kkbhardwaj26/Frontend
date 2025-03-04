@@ -1,8 +1,5 @@
-{
-  "name": "my-frontend-app",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'No build process yet'"
-  },
-  "dependencies": {}
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
 }
